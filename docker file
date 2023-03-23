@@ -1,0 +1,2 @@
+FROM CENTOS
+RUN echo "testing doker" > /tmp/testfile
